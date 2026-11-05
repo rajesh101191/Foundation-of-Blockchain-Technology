@@ -1,4 +1,4 @@
-pragma solidity ^0.5.0;  // ^0.4.24; 
+pragma solidity 0.8.21;  
 
 contract HelloWorld {
     string private helloMessage = "Hello world";
